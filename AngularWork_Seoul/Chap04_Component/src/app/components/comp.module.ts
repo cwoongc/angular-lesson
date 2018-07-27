@@ -28,7 +28,7 @@ import { A08Component, A08OneComponent } from './A08.host.component';
     ],
     imports: [ CommonModule, FormsModule ],
     //화면에 표시될 모듈 중에 부모 역할 (최 상위 모듈)을 기술한다.
-    exports: [A01Component, A02Component, A03Component, A04Component, A05Component, A06Component, A07Component, A08OneComponent],
+    exports: [A01Component, A02Component, A03Component, A04Component, A05Component, A06Component, A07Component, A08Component],
     providers: [],
 })
 export class CompModule {}

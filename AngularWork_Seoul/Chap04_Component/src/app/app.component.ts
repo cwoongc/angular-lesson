@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
     </div>
 
     <div class="panel-body">
+    <a08Component></a08Component>
     <a07Component></a07Component>
     <a06Component></a06Component>
     <a05Component></a05Component>
